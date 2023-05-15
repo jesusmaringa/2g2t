@@ -1,1 +1,2 @@
-# 2g2t
+# Estudo do Segundo Trimestre
+Jesus - 50
