@@ -41,4 +41,17 @@
         height: 120px;
         background-color: fuchsia;
     }
+    .conteudo {
+        display: flex;
+    }
+
+}
+@media screen and (min-width: 1028px) {
+    .menu {
+        height: 200px;
+        background-color: black;
+    }
+    .conteudo {
+        display: grid;
+    }
 }
